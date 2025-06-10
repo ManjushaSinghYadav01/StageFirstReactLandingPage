@@ -1,0 +1,20 @@
+.features {
+  text-align: center;
+  background: #ecf0f1;
+  padding: 50px 20px;
+}
+
+.features h2 {
+  font-size: 30px;
+  color: #2c3e50;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+}
+
+.features ul li {
+  font-size: 20px;
+  margin: 10px 0;
+}
